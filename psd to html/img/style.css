@@ -1,0 +1,123 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+#nav{
+    padding: 1% 10%;
+}
+header{
+    background-image: url("Unicorn-PSD-Template-\(1\).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.banner-container{
+    height: 100vh;
+}
+.nav-link{
+    color: black;
+    font-weight: 500;
+    margin: 10px;
+}
+.nav-link:hover{
+    color: black;
+    font-weight: 500;
+}
+#main-section-1{
+    padding: 5% 3%;
+}
+#main-section-2{
+    padding: 5% 11%;
+    background-color: #efefef;
+}
+#main-section-3{
+    padding: 7% 11%;
+}
+#main-section-4{
+    padding: 7% 11%;
+}
+.card{
+    padding: 17px 10px;
+}
+#main-section-5{
+    padding: 7% 11%;
+    background-color: #efefef;
+}
+#main-section-6{
+    padding: 7% 11%;
+}
+.hr-style{
+    border: 5px solid #e64a19;
+    width: 80px;
+    margin-top: 50px;
+}
+.div1{
+    float: left;
+    width: 28%;
+    overflow: hidden;
+}
+.div2{
+    float: left;
+    width: 28%;
+    overflow: hidden;
+}
+.div3{
+    float: left;
+    width: 28%;
+    overflow: hidden;
+}
+.div4{
+    float: left;
+    width: 16%;
+}
+/* .div4 img{
+    width: 100%;
+} */
+.clear-div{
+    clear: both;
+}
+#main-section-8{
+    background-color: black;
+    padding: 5% 3%;
+}
+aside{
+    background-image: url("banner111.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.banner111-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#another-section1{
+    padding: 5% 10%;
+}
+#another-section1 img{
+    width: 100%;
+}
+.hr--style{
+    width: 80px;
+    border: 3px solid black;
+    transform: rotate(90deg);
+    margin-top: 30px;
+}
+#another-section2{
+    padding: 9% 8%;
+    background-color:#efefef;
+}
+#last-section{
+    padding: 6% 9%;
+}
+footer{
+    padding: 5% 9%;
+    background-color: black;
+    color: white;
+}
